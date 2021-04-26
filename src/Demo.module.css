@@ -1,0 +1,40 @@
+
+.parentbox{
+  
+    border-radius: 15px;
+    background-color: rgb(167, 223, 167);
+    width: 170px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 0;
+    
+}
+.parent{
+    padding: 0px;
+    margin: 0;
+    text-align: left;
+}
+
+.box{
+   
+    border-radius: 7px;
+    background-color: palegoldenrod;
+    width: 100px;
+    padding: 20px;
+    border: solid gray;
+    margin: 15px;
+}
+.button{
+   
+    border-radius: 39px;
+    background-color: palegoldenrod;
+    width: 90px;
+    padding: 9px;
+    border: solid gray;
+    margin: 0px 39px;
+    
+   
+}
+
+
+
